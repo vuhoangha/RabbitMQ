@@ -1,0 +1,7 @@
+G:\GoogleDrive\LapTrinh\RabbitMQ\Client_\Client_\bin\Debug\Client_.exe.config
+G:\GoogleDrive\LapTrinh\RabbitMQ\Client_\Client_\bin\Debug\Client_.exe
+G:\GoogleDrive\LapTrinh\RabbitMQ\Client_\Client_\bin\Debug\Client_.pdb
+G:\GoogleDrive\LapTrinh\RabbitMQ\Client_\Client_\bin\Debug\RabbitMQ.Client.dll
+G:\GoogleDrive\LapTrinh\RabbitMQ\Client_\Client_\obj\Debug\Client_.csprojResolveAssemblyReference.cache
+G:\GoogleDrive\LapTrinh\RabbitMQ\Client_\Client_\obj\Debug\Client_.exe
+G:\GoogleDrive\LapTrinh\RabbitMQ\Client_\Client_\obj\Debug\Client_.pdb

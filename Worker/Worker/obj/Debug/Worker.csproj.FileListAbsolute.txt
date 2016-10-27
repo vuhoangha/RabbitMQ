@@ -1,0 +1,7 @@
+G:\GoogleDrive\LapTrinh\RabbitMQ\Worker\Worker\bin\Debug\Worker.exe.config
+G:\GoogleDrive\LapTrinh\RabbitMQ\Worker\Worker\bin\Debug\Worker.exe
+G:\GoogleDrive\LapTrinh\RabbitMQ\Worker\Worker\bin\Debug\Worker.pdb
+G:\GoogleDrive\LapTrinh\RabbitMQ\Worker\Worker\bin\Debug\RabbitMQ.Client.dll
+G:\GoogleDrive\LapTrinh\RabbitMQ\Worker\Worker\obj\Debug\Worker.csprojResolveAssemblyReference.cache
+G:\GoogleDrive\LapTrinh\RabbitMQ\Worker\Worker\obj\Debug\Worker.exe
+G:\GoogleDrive\LapTrinh\RabbitMQ\Worker\Worker\obj\Debug\Worker.pdb
